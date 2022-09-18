@@ -1,0 +1,17 @@
+    .login {
+        width: 500px;
+        margin: 0 auto;
+        background-color: chartreuse;
+        padding: 30px;
+        display: none;
+    }
+    .singup {
+        width: 500px;
+        margin: 0 auto;
+        background-color: rgb(255, 72, 0);
+        padding: 30px;
+        display: none;
+    }
+    .show{
+        display: block;
+    }
